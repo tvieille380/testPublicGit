@@ -6,7 +6,7 @@ public class ParserXml {
 		// TODO Auto-generated method stub
 
 		
-	//comment
+	//comment 2
 	}
 
 }
