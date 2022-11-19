@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author TVIEILLE
+ *
+ */
+module testPublicGit {
+}
